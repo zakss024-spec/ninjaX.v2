@@ -1,0 +1,1 @@
+import NinjaX from "@/components/NinjaX"; export default function Page(){return <NinjaX/>}
